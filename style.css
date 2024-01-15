@@ -110,8 +110,9 @@ li a{color: #f9faf8;}
 .part4{display: flex;
     justify-content: center;
     align-items: center;
-    margin-top: 20px;
+    margin-top: 10px;
     height: 200px;
+    margin-bottom: 10px;
 
 }
 .part4 button{background-color: #1da1f2;border: #1da1f2;}
